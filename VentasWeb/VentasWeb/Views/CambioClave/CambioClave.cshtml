@@ -1,0 +1,72 @@
+﻿@model VentasWeb.Controllers.HomeController
+@{
+    ViewBag.Title = "null";
+   
+}
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Ventas</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Agencias</li>
+    </ol>
+</nav>
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="card border-info">
+            <div class="card-header bg-info text-white">
+                Lista Agencias
+            </div>@*
+                   <!–– y el comentario se cierra con ––> <div class="card-body">
+                        <div class="row">
+                            <div class="col-sm-4">
+                                <form>
+                                    <div class="mb-3">
+                                        <label for="exampleInputEmail1" class="form-label">Contrasena actual</label>
+                                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                                        <div id="emailHelp" class="form-text">  </div>
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="exampleInputPassword1" class="form-label">Nueva contrasena </label>
+                                        <input type="password" class="form-control" id="exampleInputPassword1">
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <label for="exampleInputPassword1" class="form-label">Confirmar contrasena </label>
+                                        <input type="password" class="form-control" id="exampleInputPassword1">
+                                    </div>
+                                    <button type="submit" class="btn btn-primary">Actualizar</button>
+                                </form>
+                            </div>
+                        </div>
+                        <hr />
+                      *@
+                        <hr />
+                        <div class="row">
+                            <div class="col-md-12">
+                                <form id="needs-validation">
+                                    <div class="form-group">
+                                        <label>Contraseña actual</label>
+                                        <input class="form-control input-lg" placeholder="Ingresa tu contraseña actual" type="text" id="oldpw" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Nueva contraseña</label>
+                                        <input class="form-control input-lg" placeholder="Ingresa la nueva contraseña" type="text" id="newpw" required>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label>Repetir nueva contraseña</label>
+                                        <input class="form-control input-lg" placeholder="Repite la nueva contraseña" type="text" id="confirmpw" required>
+                                    </div>
+
+                                    <p class="mb-4" style="color: #FF0000" id="campo"></p>
+                                    <button  class="btn btn-primary mt-2" onclick="Cambiar" >Cambiar contraseña</button>
+
+                                    <small class="text-muted mt-5 mb-1 d-block">Volver al <a href="/">panel de control</a></small>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+     

@@ -1,0 +1,91 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Vallentos</title>
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="icon" type="image/x-icon" href="~/Imagenes/logo.ico" />
+    @Styles.Render("~/Content/css")
+</head>
+<body class="bg-info">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="d-flex align-items-center min-vh-100">
+                    <div class="w-100 d-block my-5">
+                        <div class="row justify-content-center">
+                            <div class="col-md-8 col-lg-5">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <div class="text-center mb-4 mt-3">
+                                            <a href="#">
+                                                <span><img src="@Url.Content("~/Imagenes/logo.png")" alt="" height="100"></span>
+                                            </a>
+                                        </div>
+                                        <form action="@Url.Content("~/Login/Index")" method="post" class="p-2">
+                                            <div class="form-group">
+                                                <label for="emailaddress">Correo</label>
+                                                <input class="form-control" type="email" name="correo">
+                                            </div>
+                                            <div class="form-group">
+                                                <label for="password">Contraseña</label>
+
+
+                                                <div class="input-group">
+                                                    <input class="form-control" type="password" name="clave" id="clave">
+
+                                                    <span class="input-group-append ">
+                                                        <button id="show_password" class="btn btn-success" type="button">
+                                                            <span class="fa fa-eye-slash icon"></span>
+                                                        </button>
+                                                    </span>
+                                                </div>
+
+                                            </div>
+                                            <br />
+
+                                            <div>
+                                                @Html.ActionLink("Olvidaste tu contraseña?", "StartRecovery")
+                                            </div>
+
+
+                                            <br />
+                                            <div class="mb-3 text-center">
+                                                <button class="btn btn-primary btn-block" type="submit">Ingresar</button>
+                                            </div>
+
+                                            <p style="color:#FF0000" ;> @ViewBag.Message</p>
+                                        </form>
+                                    </div>
+                                </div>
+                                <div class="row mt-4">
+                                    <div class="col-sm-12 text-center">
+                                      
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="@Url.Content("~/Scripts/Views/VerPass.js")" type="text/javascript">
+
+    </script>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+
+
+
+</body>
+</html>

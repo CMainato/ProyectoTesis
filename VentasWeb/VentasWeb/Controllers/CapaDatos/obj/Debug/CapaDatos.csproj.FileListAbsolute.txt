@@ -1,0 +1,52 @@
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\bin\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\crist\Desktop\New folder\New folder\SQL Server\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\crist\Desktop\New folder\New folder\SQL Server\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\New folder\New folder\SQL Server\VentasWeb\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\crist\Desktop\New folder\New folder\SQL Server\VentasWeb\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\crist\Desktop\New folder\New folder\SQL Server\VentasWeb\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\crist\Desktop\New folder\New folder\SQL Server\VentasWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\crist\Desktop\New folder\New folder\SQL Server\VentasWeb\CapaDatos\bin\Debug\CapaModelo.dll
+C:\Users\crist\Desktop\New folder\New folder\SQL Server\VentasWeb\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\Users\crist\Desktop\New folder\New folder\SQL Server\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\CapaModelo.dll
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\Microsoft.Owin.dll
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\Owin.dll
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\CapaModelo.dll.config
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\Microsoft.Owin.xml
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\esEste\VentasWeb\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\New folder\esEste\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\crist\Desktop\New folder (2)\New folder\New folder\New folder\esEste\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache

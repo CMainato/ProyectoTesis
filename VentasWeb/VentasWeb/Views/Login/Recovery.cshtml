@@ -1,0 +1,30 @@
+﻿@model VentasWeb.Models.ViewModel.RecoveryPasswordViewModel
+@{
+    ViewBag.Title = "Recovery";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-6 offset-3">
+        <div class="form-style">
+            <form action="@Url.Content("~/Login/Recovery")" method="post">
+                @Html.HiddenFor(d => d.token)
+
+                <label>Escribe tu nueva contraseña</label>
+                @Html.PasswordFor(d => d.Password, new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.Password, null, new { style = "color:red;" })
+
+                <label>Vuelve a escribir tu contraseña</label>
+                @Html.PasswordFor(d => d.Password2, new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.Password2, null, new { style = "color:red;" })
+                <br />
+
+                <p style="color:#FF0000" ;> @ViewBag.Message</p>
+                <div class="text-right">
+                    <button class="btn btn-primary">Recuperar</button>
+                </div>
+
+            </form>
+        </div>
+    </div>
+</div>

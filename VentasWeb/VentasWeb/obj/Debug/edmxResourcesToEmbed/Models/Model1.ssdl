@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBINVENTARIO1_WEBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="USUARIO">
+    <Key>
+      <PropertyRef Name="IdUsuario" />
+    </Key>
+    <Property Name="IdUsuario" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombres" Type="varchar" MaxLength="60" />
+    <Property Name="Apellidos" Type="varchar" MaxLength="60" />
+    <Property Name="Correo" Type="varchar" MaxLength="60" />
+    <Property Name="Clave" Type="varchar" MaxLength="100" />
+    <Property Name="IdAgencia" Type="int" />
+    <Property Name="IdRol" Type="int" />
+    <Property Name="Activo" Type="bit" />
+    <Property Name="FechaRegistro" Type="datetime" />
+    <Property Name="token_recovery" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityContainer Name="DBINVENTARIO1_WEBModelStoreContainer">
+    <EntitySet Name="USUARIO" EntityType="Self.USUARIO" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

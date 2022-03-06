@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBINVENTARIO1_WEBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="USUARIO">
+    <Key>
+      <PropertyRef Name="IdUsuario" />
+    </Key>
+    <Property Name="IdUsuario" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombres" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Name="Apellidos" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Name="Correo" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Name="Clave" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="IdAgencia" Type="Int32" />
+    <Property Name="IdRol" Type="Int32" />
+    <Property Name="Activo" Type="Boolean" />
+    <Property Name="FechaRegistro" Type="DateTime" Precision="3" />
+    <Property Name="token_recovery" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="DBINVENTARIO1_WEBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="USUARIOs" EntityType="Self.USUARIO" />
+  </EntityContainer>
+</Schema>
